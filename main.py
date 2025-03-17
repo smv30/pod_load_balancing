@@ -113,7 +113,7 @@ if __name__ == "__main__":
     #     s_init[i] = (arrival_rate / input_n) ** ((d ** i - 1) / (d - 1))
     s_init[0] = 1
     if d > 1:
-        data_dict = main_loop(total_time=10000,
+        data_dict = main_loop(total_time=4000,
                             n=input_n,
                             d=d,
                             b=b,
