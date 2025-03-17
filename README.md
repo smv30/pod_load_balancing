@@ -1,5 +1,4 @@
-# pod_load_balancing
-Power-of-d Load Balancing
+# Power-of-d Load Balancing
 
 Use the following to run the code on the command line:
 ```
