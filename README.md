@@ -10,4 +10,4 @@ where -n is the number of servers, -m sets $d$ be the greatest integer such that
 The output is a csv file with headers
 > curr_time, $s_1/n$, ..., $s_b/n$
 
-where $s_i$ is the number of queues with at least $i$ customers. Row $k$ of the data corresponds to curr_time $\approx k$ along with $s_i(\text{curr}_\text{time})/n$.
+where $s_i$ is the number of queues with at least $i$ customers. Row $k$ of the data corresponds to curr_time $\approx k$ along with $s_i(\text{curr}\_\text{time})/n$.
